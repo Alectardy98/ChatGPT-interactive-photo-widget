@@ -2,8 +2,8 @@
 #photo-widget {
   position: relative;
   width: 80%;
-  max-width: 2000px;
-  height: 1200px;
+  max-width: 1000px;
+  height: 700px;
   margin: 50px auto;
   overflow: hidden;
   border: 2px solid #ccc;
